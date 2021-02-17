@@ -1,5 +1,6 @@
 # Stuff
 /build
+/.cache
 /.vs
 /.idea
 /cmake-build-debug
